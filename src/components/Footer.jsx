@@ -1,7 +1,9 @@
 function Footer() {
-    return (
-        <p>Footer</p>
-    )
+  return (
+    <div className="text-center">
+      <footer className="py-2 bg-emerald-900 text-stone-300">Austė</footer>
+    </div>
+  );
 }
 
 export default Footer;

@@ -6,7 +6,7 @@
       "author": "Harper Lee",
       "category": "Fiction",
       "price": 10.99,
-      "cover": "https://covers.openlibrary.org/b/isbn/9780061120084-L.jpg",
+      "cover": "https://media.istockphoto.com/id/174673336/photo/at-the-library.webp?s=2048x2048&w=is&k=20&c=NYIADIqhz90o255emtIl42g-k5WHPXaNbg7YRLjo5QQ=",
       "reserved": false
     },
     {
@@ -15,7 +15,7 @@
       "author": "Stephen Hawking",
       "category": "Science",
       "price": 15.49,
-      "cover": "https://covers.openlibrary.org/b/isbn/9780553380163-L.jpg",
+      "cover": "https://rukminim1.flixcart.com/image/300/300/xif0q/diary-notebook/i/t/v/rg1132-escaper-original-imahfqzzt5ndbevw.jpeg",
       "reserved": true
     },
     {
@@ -24,7 +24,7 @@
       "author": "F. Scott Fitzgerald",
       "category": "Fiction",
       "price": 12.99,
-      "cover": "https://covers.openlibrary.org/b/isbn/9780743273565-L.jpg",
+      "cover": "https://media.istockphoto.com/id/953026504/photo/studio-portrait-of-young-woman-in-front-of-big-book-on-the-table-dont-feel-like-studying.jpg?s=2048x2048&w=is&k=20&c=-Oia6PW77rJUlU7oydA3TIgcKXQY4D_Z6kCu_2ce8_I=",
       "reserved": false
     },
     {
@@ -33,7 +33,7 @@
       "author": "Tara Westover",
       "category": "Biography",
       "price": 14.99,
-      "cover": "https://covers.openlibrary.org/b/isbn/9780399590504-L.jpg",
+      "cover": "https://media.istockphoto.com/id/174673336/photo/at-the-library.webp?s=2048x2048&w=is&k=20&c=NYIADIqhz90o255emtIl42g-k5WHPXaNbg7YRLjo5QQ=",
       "reserved": true
     },
     {
@@ -42,7 +42,7 @@
       "author": "Frank Herbert",
       "category": "Science Fiction",
       "price": 18.99,
-      "cover": "https://covers.openlibrary.org/b/isbn/9780441013593-L.jpg",
+      "cover": "https://rukminim1.flixcart.com/image/300/300/xif0q/diary-notebook/i/t/v/rg1132-escaper-original-imahfqzzt5ndbevw.jpeg",
       "reserved": false
     },
     {
@@ -51,52 +51,7 @@
       "author": "George Orwell",
       "category": "Dystopian",
       "price": 9.99,
-      "cover": "https://covers.openlibrary.org/b/isbn/9780451524935-L.jpg",
-      "reserved": false
-    },
-    {
-      "id": "7",
-      "title": "Pride and Prejudice",
-      "author": "Jane Austen",
-      "category": "Romance",
-      "price": 11.99,
-      "cover": "https://covers.openlibrary.org/b/isbn/9780141439518-L.jpg",
-      "reserved": false
-    },
-    {
-      "id": "8",
-      "title": "The Catcher in the Rye",
-      "author": "J.D. Salinger",
-      "category": "Fiction",
-      "price": 10.49,
-      "cover": "https://covers.openlibrary.org/b/isbn/9780316769488-L.jpg",
-      "reserved": false
-    },
-    {
-      "id": "9",
-      "title": "The Hobbit",
-      "author": "J.R.R. Tolkien",
-      "category": "Fantasy",
-      "price": 13.95,
-      "cover": "https://covers.openlibrary.org/b/isbn/9780547928227-L.jpg",
-      "reserved": false
-    },
-    {
-      "id": "10",
-      "title": "The Alchemist",
-      "author": "Paulo Coelho",
-      "category": "Adventure",
-      "price": 16.99,
-      "cover": "https://covers.openlibrary.org/b/isbn/9780061122415-L.jpg",
-      "reserved": false
-    },
-    {
-      "id": "ad8d",
-      "title": "AAA",
-      "author": "AAA",
-      "category": "Science",
-      "price": "1",
-      "cover": "https://rukminim1.flixcart.com/image/300/300/xif0q/diary-notebook/i/t/v/rg1132-escaper-original-imahfqzzt5ndbevw.jpeg",
+      "cover": "https://media.istockphoto.com/id/953026504/photo/studio-portrait-of-young-woman-in-front-of-big-book-on-the-table-dont-feel-like-studying.jpg?s=2048x2048&w=is&k=20&c=-Oia6PW77rJUlU7oydA3TIgcKXQY4D_Z6kCu_2ce8_I=",
       "reserved": false
     }
   ]

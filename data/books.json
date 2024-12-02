@@ -89,6 +89,15 @@
       "price": 16.99,
       "cover": "https://covers.openlibrary.org/b/isbn/9780061122415-L.jpg",
       "reserved": false
+    },
+    {
+      "id": "ad8d",
+      "title": "AAA",
+      "author": "AAA",
+      "category": "Science",
+      "price": "1",
+      "cover": "https://rukminim1.flixcart.com/image/300/300/xif0q/diary-notebook/i/t/v/rg1132-escaper-original-imahfqzzt5ndbevw.jpeg",
+      "reserved": false
     }
   ]
 }

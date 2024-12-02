@@ -1,0 +1,94 @@
+{ "books": [
+    {
+      "id": "1",
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "category": "Fiction",
+      "price": 10.99,
+      "cover": "https://covers.openlibrary.org/b/isbn/9780061120084-L.jpg",
+      "reserved": false
+    },
+    {
+      "id": "2",
+      "title": "A Brief History of Time",
+      "author": "Stephen Hawking",
+      "category": "Science",
+      "price": 15.49,
+      "cover": "https://covers.openlibrary.org/b/isbn/9780553380163-L.jpg",
+      "reserved": false
+    },
+    {
+      "id": "3",
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "category": "Fiction",
+      "price": 12.99,
+      "cover": "https://covers.openlibrary.org/b/isbn/9780743273565-L.jpg",
+      "reserved": false
+    },
+    {
+      "id": "4",
+      "title": "Educated",
+      "author": "Tara Westover",
+      "category": "Biography",
+      "price": 14.99,
+      "cover": "https://covers.openlibrary.org/b/isbn/9780399590504-L.jpg",
+      "reserved": false
+    },
+    {
+      "id": "5",
+      "title": "Dune",
+      "author": "Frank Herbert",
+      "category": "Science Fiction",
+      "price": 18.99,
+      "cover": "https://covers.openlibrary.org/b/isbn/9780441013593-L.jpg",
+      "reserved": false
+    },
+    {
+      "id": "6",
+      "title": "1984",
+      "author": "George Orwell",
+      "category": "Dystopian",
+      "price": 9.99,
+      "cover": "https://covers.openlibrary.org/b/isbn/9780451524935-L.jpg",
+      "reserved": false
+    },
+    {
+      "id": "7",
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "category": "Romance",
+      "price": 11.99,
+      "cover": "https://covers.openlibrary.org/b/isbn/9780141439518-L.jpg",
+      "reserved": false
+    },
+    {
+      "id": "8",
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "category": "Fiction",
+      "price": 10.49,
+      "cover": "https://covers.openlibrary.org/b/isbn/9780316769488-L.jpg",
+      "reserved": false
+    },
+    {
+      "id": "9",
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "category": "Fantasy",
+      "price": 13.95,
+      "cover": "https://covers.openlibrary.org/b/isbn/9780547928227-L.jpg",
+      "reserved": false
+    },
+    {
+      "id": "10",
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "category": "Adventure",
+      "price": 16.99,
+      "cover": "https://covers.openlibrary.org/b/isbn/9780061122415-L.jpg",
+      "reserved": false
+    }
+  ]
+}
+  

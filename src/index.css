@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/*@layer base {
+  h1 {
+    @apply text-gray-600 text-4xl p-4;
+  }
+}
+
+@layer utilities {
+  .text-shadow {
+    text-shadow: 5px 5px 10px red;
+  }
+
+  .btn-secondary {
+    @apply bg-slate-300;
+  }
+}
+
+@layer components {
+  .card {
+    @apply text-left bg-slate-400;
+  }
+} */

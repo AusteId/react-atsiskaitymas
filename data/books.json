@@ -1,4 +1,5 @@
-{ "books": [
+{
+  "books": [
     {
       "id": "1",
       "title": "To Kill a Mockingbird",
@@ -33,7 +34,7 @@
       "category": "Biography",
       "price": 14.99,
       "cover": "https://covers.openlibrary.org/b/isbn/9780399590504-L.jpg",
-      "reserved": false
+      "reserved": true
     },
     {
       "id": "5",
@@ -91,4 +92,3 @@
     }
   ]
 }
-  

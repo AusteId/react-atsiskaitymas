@@ -26,14 +26,15 @@ function BookRegistration() {
 
   return (
     <main>
-      <h1>Registruoti knygą</h1>
-      <form onSubmit={handleSubmit(onSubmit)} noValidate>
-        <section>
-          <section>
-            <label>Knygos pavadinimas:</label>
+      <h1 className="font-bold text-stone-300 text-2xl text-center py-5">Registruoti knygą</h1>
+      <form onSubmit={handleSubmit(onSubmit)} noValidate className="text-center">
+        <section className="flex flex-col">
+          <section className="grid grid-cols-2">
+            <label className="text-stone-300 pr-10 self-center justify-self-end">Knygos pavadinimas:</label>
             <input
               type="text"
               placeholder="3-100 simbolių"
+              className="rounded-xl w-80"
               {...register("title", {
                 required: "Knygos pavadinimą nurodyti privaloma",
                 minLength: {
@@ -50,10 +51,11 @@ function BookRegistration() {
               {errors.title?.message}
             </p>
           </section>
-          <section>
-            <label>Knygos autorius:</label>
+          <section className="grid grid-cols-2">
+            <label className="text-stone-300 pr-10 self-center justify-self-end">Knygos autorius:</label>
             <input
               type="text"
+              className="rounded-xl w-80"
               {...register("author", {
                 required: "Knygos autorių nurodyti privaloma",
                 pattern: {
@@ -66,9 +68,10 @@ function BookRegistration() {
               {errors.author?.message}
             </p>
           </section>
-          <section>
-            <label>Knygos kategorija:</label>
+          <section className="grid grid-cols-2">
+            <label className="text-stone-300 pr-10 self-center justify-self-end">Knygos kategorija:</label>
             <select
+            className="rounded-xl w-80"
               {...register("category", {
                 required: "Knygos kategoriją nurodyti privaloma",
               })}
@@ -87,10 +90,11 @@ function BookRegistration() {
               {errors.category?.message}
             </p>
           </section>
-          <section>
-            <label>Knygos kaina:</label>
+          <section className="grid grid-cols-2">
+            <label className="text-stone-300 pr-10 self-center justify-self-end">Knygos kaina:</label>
             <input
               type="number"
+              className="rounded-xl w-80"
               {...register("price", {
                 required: "Knygos kainą nurodyti privaloma",
                 validate: {
@@ -106,11 +110,12 @@ function BookRegistration() {
               {errors.price?.message}
             </p>
           </section>
-          <section>
-            <label>Knygos viršelis:</label>
+          <section className="grid grid-cols-2">
+            <label className="text-stone-300 pr-10 self-center justify-self-end">Knygos viršelis:</label>
             <input
               type="text"
               placeholder="Nuoroda į knygos viršelio paveikslėlį"
+              className="rounded-xl w-80"
               {...register("cover", {
                 required: "Viršelio nuorodą pridėti privaloma",
                 pattern: {
@@ -124,7 +129,7 @@ function BookRegistration() {
             </p>
           </section>
           <section>
-            <button>Užregistruoti knygą</button>
+            <button className="text-stone-300 pr-5 my-5 btn btn-ghost">Užregistruoti knygą</button>
           </section>
         </section>
       </form>

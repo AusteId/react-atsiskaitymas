@@ -54,7 +54,7 @@ function WelcomePage() {
           {books.map((book) => (
             <div
               key={book.id}
-              className="m-5 p-3 border-2 flex flex-col items-center rounded-3xl"
+              className="m-5 p-3 border-2 flex flex-col items-center rounded-3xl  w-80 h-128"
             >
               <img
                 src={book.cover}

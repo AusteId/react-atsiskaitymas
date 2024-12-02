@@ -16,7 +16,7 @@
       "category": "Science",
       "price": 15.49,
       "cover": "https://rukminim1.flixcart.com/image/300/300/xif0q/diary-notebook/i/t/v/rg1132-escaper-original-imahfqzzt5ndbevw.jpeg",
-      "reserved": true
+      "reserved": false
     },
     {
       "id": "3",
@@ -50,7 +50,7 @@
       "title": "1984",
       "author": "George Orwell",
       "category": "Dystopian",
-      "price": 9.99,
+      "price": "9.98",
       "cover": "https://media.istockphoto.com/id/953026504/photo/studio-portrait-of-young-woman-in-front-of-big-book-on-the-table-dont-feel-like-studying.jpg?s=2048x2048&w=is&k=20&c=-Oia6PW77rJUlU7oydA3TIgcKXQY4D_Z6kCu_2ce8_I=",
       "reserved": false
     }

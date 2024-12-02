@@ -16,7 +16,7 @@
       "category": "Science",
       "price": 15.49,
       "cover": "https://covers.openlibrary.org/b/isbn/9780553380163-L.jpg",
-      "reserved": false
+      "reserved": true
     },
     {
       "id": "3",
